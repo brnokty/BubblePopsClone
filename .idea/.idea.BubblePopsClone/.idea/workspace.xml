@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b7121c4-70b8-49f1-aa84-22e23ac5ff85" name="Default Changelist" comment="" />
+    <list default="true" id="8b7121c4-70b8-49f1-aa84-22e23ac5ff85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/[GAME]/Scripts/BubbleManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/[GAME]/Scripts/BubbleManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BubblePopsClone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BubblePopsClone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/IngameDebugConsole/Sprites/IngameDebugConsoleSpriteAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/IngameDebugConsole/Sprites/IngameDebugConsoleSpriteAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/[GAME]/Prefabs/Bubble.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/[GAME]/Prefabs/Bubble.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/[GAME]/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/[GAME]/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/[GAME]/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/[GAME]/Scripts/GameManager.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +18,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/[GAME]/Scripts/BubbleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../MyRepos/survivor-online/Assets/Scripts/Managers/MapManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/[GAME]/Scripts/Utils/TrajectoryUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/[GAME]/Scripts/DrawTrajectorySystem.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/[GAME]/Scripts/BubbleController.cs" />
+      <option value="$PROJECT_DIR$/Assets/[GAME]/Scripts/GunMonoLink.cs" />
+      <option value="$PROJECT_DIR$/Assets/[GAME]/Scripts/BubbleConfig.cs" />
       <option value="$PROJECT_DIR$/Assets/[GAME]/Scripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/[GAME]/Scripts/Utils/TrajectoryUtil.cs" />
+      <option value="$PROJECT_DIR$/Assets/[GAME]/Scripts/Bubble.cs" />
+      <option value="$PROJECT_DIR$/Assets/[GAME]/Scripts/DrawTrajectorySystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/[GAME]/Scripts/BubbleManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2jICS8x3d8huFs2c8emP4E69OG6" />
@@ -59,7 +80,10 @@
       <option name="presentableId" value="Default" />
       <updated>1721065203904</updated>
       <workItem from="1721065222871" duration="235000" />
-      <workItem from="1721065596488" duration="954000" />
+      <workItem from="1721065596488" duration="955000" />
+      <workItem from="1721151178740" duration="3950000" />
+      <workItem from="1721162433351" duration="595000" />
+      <workItem from="1721219971378" duration="4558000" />
     </task>
     <servers />
   </component>
@@ -68,6 +92,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
