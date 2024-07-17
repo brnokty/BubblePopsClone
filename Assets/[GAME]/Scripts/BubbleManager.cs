@@ -46,7 +46,15 @@ public class BubbleManager : MonoBehaviour
 
     #endregion
 
-    [SerializeField] private List<BubbleConfig> _bubbleConfigs = new List<BubbleConfig>();
+    [Header("Bubbles")] [SerializeField] private List<BubbleConfig> _bubbleConfigs = new List<BubbleConfig>();
+
+    [Header("Bubble Poses")] [SerializeField]
+    private Transform bubblePos;
+
+    [SerializeField] private Transform nextBubblePos;
+
+    public Transform BubblePos => bubblePos;
+    public Transform NextBubblePos => nextBubblePos;
 
 
     public Color GetColorForBubbleType(BubbleType bubbleType)
